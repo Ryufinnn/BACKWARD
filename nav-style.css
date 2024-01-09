@@ -1,0 +1,89 @@
+
+/* Reset */
+.menu,
+.menu ul,
+.menu li,
+.menu a {
+	margin: 0;
+	padding: 0;
+	border: none;
+	outline: none;
+	z-index:1001;
+}
+
+/* Menu */
+.menu {	
+	height: 40px;
+	width: 100%;
+
+	background: #00CCFF;
+	background: -webkit-linear-gradient(top, #00CCFF 0%,#0066FF 100%);
+	background: -moz-linear-gradient(top, #00CCFF 0%,#0066FF 100%);
+	background: -o-linear-gradient(top, #00CCFF 0%,#0066FF 100%);
+	background: -ms-linear-gradient(top, #00CCFF 0%,#0066FF 100%);
+	background: linear-gradient(top, #00CCFF 0%,#0066FF 100%);
+}
+
+.menu li {
+	position: relative;
+	list-style: none;
+	float: left;
+	display: block;
+	height: 40px;
+}
+
+/* Links */
+
+.menu li a {
+	display: block;
+	padding: 0 14px;
+	margin: 6px 0;
+	line-height: 28px;
+	text-decoration: none;
+	
+	border-left: 1px solid #00CCFF;
+	border-right: 1px solid #5a0905;
+
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+
+.menu li:first-child a { border-left: none; }
+.menu li:last-child a{ border-right: none; }
+
+.menu li:hover > a { color: yellow; }
+
+/* Sub Menu */
+
+.menu ul {
+	position: absolute;
+	top: 40px;
+	left: 0;	
+	background: #00CCFF;
+	-webkit-border-radius: 0 0 5px 5px;
+	-moz-border-radius: 0 0 5px 5px;
+	border-radius: 0 0 5px 5px;
+}
+.menu ul li {
+	height: 0;
+	overflow: hidden;
+	padding: 0;
+}
+.menu li:hover > ul li {
+	height: 36px;
+	overflow: visible;
+	padding: 0;
+}
+
+.menu ul li a {
+	width: 200px;
+	padding: 2px 0 4px 15px;
+	margin: 0;
+	border-bottom: 1px solid #530905;
+}
+
+.menu ul li:last-child a { }

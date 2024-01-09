@@ -1,0 +1,15 @@
+
+@import url(gallery.css);
+#container{
+	width:920px;
+	padding:10px;
+	line-height:1.6em;
+	}
+
+
+
+#content{
+	display:block;
+	float:right;
+	width:250px;
+	}

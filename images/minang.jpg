@@ -1,0 +1,367 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>&lt;&lt; .: BURSA-IT HOTSPOT :. &gt;&gt; login</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="expires" content="-1" />
+<style type="text/css">
+body {color: #737373; font-size: 10px; font-family: verdana;}
+
+textarea,input,select {
+background-color: #FDFBFB;
+border: 1px solid #BBBBBB;
+padding: 2px;
+margin: 1px;
+font-size: 14px;
+color: #808080;
+}
+
+a, a:link, a:visited, a:active { color: #AAAAAA; text-decoration: none; font-size: 10px; }
+a:hover { border-bottom: 1px dotted #c1c1c1; color: #AAAAAA; }
+img {border: none;}
+td { font-size: 14px; color: #7A7A7A; }
+.style35 {
+	color: #000080;
+	font-size: small;
+}
+.style78 {
+	font-size: medium;
+}
+.style21 {
+	border: 2px solid #0099CC;
+	background-color: #99CCFF;
+}
+.style79 {
+	font-size: 1.51395e+034;
+}
+.style80 {
+	font-size: 25pt;
+}
+.style81 {
+	font-weight: normal;
+}
+.style82 {
+	text-align: left;
+	border-style: none;
+	border-width: medium;
+	background-color: #FFFFCC;
+}
+.style83 {
+	border: 2px solid #000080;
+	}
+.style84 {
+	border-style: none;
+	border-width: medium;
+}
+.style85 {
+	font-size: medium;
+	color: #FF0000;
+}
+.style86 {
+	text-align: left;
+	border-left-width: 1px;
+	border-top-width: 1px;
+	color: #000080;
+}
+.style87 {
+	text-align: center;
+	border-left-width: 1px;
+	color: #000080;
+}
+.style88 {
+	border-left-width: 1px;
+	border-bottom-width: 1px;
+}
+.style89 {
+	border-width: 0px;
+}
+.style91 {
+	border-width: 0;
+}
+.style92 {
+	border: 1px solid #800080;
+	text-align: center;
+	}
+.style67 {
+	font-size: small;
+	font-weight: bold;
+	color: #800000;
+}
+.style66 {
+	font-size: small;
+}
+.style70 {
+	color: #000080;
+}
+.style63 {
+	font-size: small;
+	font-style: italic;
+}
+.style65 {
+	font-size: medium;
+	color: #000080;
+}
+.style96 {
+	background-color: #FF0000;
+}
+.style97 {
+	color: #FFFFFF;
+}
+.style94 {
+	color: #000000;
+	font-family: "Courier New", Courier, monospace;
+	font-size: small;
+}
+.style95 {
+	text-decoration: underline;
+}
+.style1 {
+	text-align: center;
+}
+.style17 {
+	text-decoration: blink;
+	color: #800000;
+	font-style: italic;
+}
+.style16 {
+	font-family: Verdana;
+	text-decoration: blink;
+}
+.style98 {
+	color: #800000;
+	font-size: medium;
+}
+.style101 {
+	color: #FFFFFF;
+	background-color: #0099CC;
+}
+.style102 {
+	border: 2px solid #000080;
+	background-color: #99CCFF;
+}
+.style103 {
+	border: 1px solid #800080;
+	background-color: #99CCFF;
+}
+.style104 {
+	color: #800000;
+}
+.style105 {
+	text-decoration: underline blink;
+}
+</style>
+
+</head>
+
+<body>
+
+	<form name="sendin" action="http://bill.net/login" method="post">
+		<input type="hidden" name="username" />
+		<input type="hidden" name="password" />
+		<input type="hidden" name="dst" value="http://3.bp.blogspot.com/-XegEGoUsZGs/UcK7RWmMYJI/AAAAAAAAkDc/wytAUclGTLI/s400/2aa.jpg" />
+		<input type="hidden" name="popup" value="true" />
+	</form>
+	
+	<script type="text/javascript" src="/md5.js"></script>
+	<script type="text/javascript">
+	<!--
+	    function doLogin() {
+		document.sendin.username.value = document.login.username.value;
+		document.sendin.password.value = hexMD5('\252' + document.login.password.value + '\302\070\344\357\151\324\176\074\051\352\227\201\222\155\360\301');
+		document.sendin.submit();
+		return false;
+	    }
+	//-->
+	</script>
+
+
+<div align="center">
+
+
+
+<table style="margin-top: 1%; width: 100%; height: 59%;" align="center" class="style21">
+	<tr>
+	<th valign="top" class="style28">
+			<font color="#800000" face="Cooper Black" size="6">
+			<span class="style79"><span class="style80">Bursa-IT&nbsp; </span>
+			</span><em><span class="style79"><span class="style80">HotSpot</span></span></em><br />
+			<i><font size="5" color="#800000" face="Script MT Bold">The Smartest 
+			Internet Choice</font></i><br />
+		<font color="#800000" face="Times New Roman"><span class="style78">
+			<strong>Layanan Konsumen :&nbsp; 0812 6631 5000 (Telp &amp; SMS) - Email 
+			: bursait@yahoo.com</strong></span></font><span class="style81"><font color="#800000" size="3" face="Cooper Black"><marquee scrolldelay="50" style="font-family: Comic Sans MS; width: 958px;" height="24" scrollamount="4" bgcolor="#0099CC">WelCoMe to Bursa-IT HotSpot - NGenet murAh sisTem WIFI, bIsa diRumaH, ga' pErlu aNtri, ga' Perlu RegistrAsi, cUkup beLi voUchEr.. langsung OnLine.!.ayO burUan., User tErBataS!!</marque><script type="text/javascript"> <!--&nbsp;&nbsp; document.login.username.focus(); //--> </script></marquee></font></span></font></th>
+	</tr>
+	
+	</table>
+
+
+</div>
+
+<table style="margin-top: 1%; width: 100%;" class="style83">
+	<tr>
+	<td valign="top" style="width: 326px" class="style82">
+		<p align="left">
+		</p>
+		<p align="left">
+		<font style="text-decoration: underline;" size="2" class="style67">
+		Harga <i>Voucher :</i></font></p><p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">
+		<span class="style66"><font class="style66">
+		<strong><span class="style70">&nbsp;- Voucher&nbsp;&nbsp; 5.000&nbsp;</span></strong><span class="style70"><strong>&nbsp;&nbsp;&nbsp;/
+		</strong> 
+		</span></font> 
+		</span><font style="font-size: 8pt;">
+		<span class="style63"><span class="style70"><strong>&nbsp;2 Jam</strong></span></span></font></p><p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">
+		<font class="style65">
+		<strong><span class="style66">&nbsp;- Voucher 10.000</span></strong><span class="style66"><strong>&nbsp;&nbsp;&nbsp; /&nbsp;
+		</strong> </span> <i><span class="style66"><strong>5 Jam</strong></span></i></font></p><p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">
+		<span class="style66"><font class="style66">
+		<strong><span class="style70">&nbsp;- Voucher 20.000</span></strong><span class="style70"><strong>&nbsp;&nbsp;&nbsp;&nbsp;/</strong></span></font></span><font style="font-size: 8pt;"><span class="style63"><span class="style70"><strong>12 
+		Jam
+		</strong>
+		</span>
+		</span></font></p><p style="margin-top: 0pt; margin-bottom: 0pt;" align="left">
+		<font class="style35"><strong>&nbsp;- Voucher 50.000&nbsp;&nbsp;&nbsp; /</strong><i><strong>36 
+		jam</strong></i></font></p>
+		<p style="margin-top: 0pt; margin-bottom: 0pt;" align="left" class="style66">
+		<span class="style70">&nbsp;
+	</p>
+		<p style="margin-top: 0pt; margin-bottom: 0pt;" align="left" class="style66">&nbsp;<span class="style96"><em>
+		</em></span>
+		</span>
+		<span class="style96"><em>
+		<span class="style97">Catatan :</span></em></span></p>
+		<ul class="style94">
+			<li>
+			<p style="margin-top: 0; margin-bottom: 0; width: 247px;">
+			<span class="style66">Masa aktif setiap voucher berlaku selama 1 
+			bulan.</li>
+			<li>
+			<p style="margin-top: 0; margin-bottom: 0; width: 247px;">
+			IP Address dan konfigurasi browser anda harus 
+			di set otomatis. </li>
+			<li>
+			<p style="margin-top: 0; margin-bottom: 0; width: 247px;">Voucher 
+			bisa dipakai berulang-ulang, sampai habis total waktu di voucher 
+			anda.</li>
+			<li>
+			<p style="margin-top: 0; margin-bottom: 0; width: 247px;">Harap 
+			Logoff kalau sedang tidak Online, ketik alamat ini di browser anda: <span class="style95"><em><strong>bill.net/status?</strong></em></span></span><em><span class="style66"><strong>&nbsp;
+			</strong>klik</span></em><span class="style66"> tombol Logoff pada halaman tersebut, atau matikan 
+			wifi/laptop anda agar logoff otomatis dari server kami.</li>
+			</span>
+			<li>
+			<p style="margin-top: 0; margin-bottom: 0; width: 247px;">
+			<span class="style66">Pastikan 
+			anda mendapatkan sinyal wifi Bursa-IT yang baik.</li>
+			<li>
+			<p style="margin-top: 0; margin-bottom: 0; width: 247px;">Agar 
+			keluhan anda lebih cepat kami layani, SMS&nbsp; kode login dan 
+			password serta kode sinyal Bursa-IT yang biasa anda pakai contohnya 
+			: </li>
+			<li>
+			<p style="margin-top: 0; margin-bottom: 0; width: 247px;">Bursa-IT 
+			HSpot&lt;&gt;HC Komp-1</span></li>
+		</ul>
+		<p class="style1"><font class="style78">
+			<span class="style17"><strong>&quot;</strong></span></font><span class="style16"><i><font class="style98"><strong>Anda 
+		punya tempat kos?, ingin dilengkapi fasilitas WIFI ?, mendapatkan income 
+		tambahan tanpa modal..? &quot;</strong></font></i><font color="#0000ff" class="style63"><strong>
+		</strong> </font>
+			</span></p>
+	<p class="style1">
+	<font style="font-style: italic;" color="#0000ff" class="style66">
+		Segera Hubungi:<strong> 
+			081266315000 ..!&nbsp;</strong></font></p>
+		<p class="style1">
+	&nbsp;</p>
+	</td>
+	<td align="center" valign="top" style="width: 326px" class="style102">
+		<div class="notice" style="color: #c1c1c1; font-size: 9px">
+			<span class="style35"><strong><br />
+			Masukkan Kode Voucher Anda Disini:<br />
+			</strong></span></div><br />
+		<table width="280" height="280" style="border: 1px solid #cccccc; padding: 0px; height: 113px; width: 162px;" cellpadding="0" cellspacing="0">
+			<tr>
+				<td align="center" valign="bottom" style="height: 111px; width: 160px" class="style91">
+					<form name="login" action="http://bill.net/login" method="post"
+					     onSubmit="return doLogin()" >
+						<input type="hidden" name="dst" value="http://3.bp.blogspot.com/-XegEGoUsZGs/UcK7RWmMYJI/AAAAAAAAkDc/wytAUclGTLI/s400/2aa.jpg" />
+						<input type="hidden" name="popup" value="true" />
+						
+							<table width="100" style="background-color: #ffffff; " class="style89">
+								<tr><td valign="top" class="style86"><strong>login</strong></td>
+										<td class="style92">
+										<input style="width: 65px" name="username" type="text" value=""/></td>
+								</tr>
+								<tr><td valign="top" class="style87"><strong>password</strong></td>
+										<td class="style92">
+										<input style="width: 65px" name="password" type="password"/></td>
+								</tr>
+								<tr><th valign="top" class="style88">&nbsp;</th>
+										<th class="style91">
+										<input type="submit" value="OK" style="width: 59px" class="style101" /></th>
+								</tr>
+							</table>
+					</form>
+				</td>
+			</tr>
+			</table>
+	
+		<div style="font-size: 9px" class="style70">Powered by Bursa-IT</div>
+		
+	</td>
+	<td align="center" valign="top" style="width: 326px" class="style84">
+		<img alt="" src="img6.jpg" /><br />
+		<br />
+		<img alt="" src="img3.jpg" width="278" height="124" /><br />
+		<br />
+		<img alt="" src="img5.jpg" width="297" /><br />
+		<br />
+		<img alt="" src="img/sponsor1.PNG" width="302" height="126" /><br />
+		<br />
+		<img alt="" src="img/sponsor1.PNG" width="302" height="126" /><br />
+		<br />
+		<br />
+	</td>
+	</tr>
+</table>
+
+<script type="text/javascript">
+<!--
+  document.login.username.focus();
+//-->
+</script>
+<table style="width: 100%" class="style103">
+	<tr>
+		<td><span class="style104"><strong><span class="style105"><br />
+		TEMPAT PENJUALAN VOUCHER</span><br />
+		<br />
+		<em>Area Air Tawar:</em></strong><br />
+		<br />
+		- <strong>HC KOMPUTER</strong> (Depan Basko Hotel) - Momeros Sauna - 
+		Kost Shania - Kedai Keisya - <strong>Fikri Copy Center</strong> (Cendrawasih) 
+		-&nbsp; PhotoCopy Ar-Rahmi - Depot Bayang Sani - Warnet Amazing - Toko 
+		Hira - Toko Aurel - Dita Cell<br />
+		<br />
+		<strong>
+		<em>Area Air Pacah:<br />
+		</em>-<span class="style81"> Syaf Cell - Depot Lirici - Bunda CopyCenter 
+		- Pemondokan One </span>
+		<em><br />
+		<br />
+		Area Lubuk Begalung:<br />
+		</em></strong>- Kost Pratama - RM.Minang Roda
+		<em><strong><br />
+		<br />
+		Area Unand:<br />
+		</strong></em>- Zahra Swalayan - Depot Ghea -&nbsp; Cafe Redho - Aries 
+		Computer - Toko Rinjani - Zahra Cell - Berkah Cell<em><strong><br />
+		</strong></em>
+		</span><br />
+		</td>
+	</tr>
+</table>
+</body>
+</html>
